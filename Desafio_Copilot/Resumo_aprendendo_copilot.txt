@@ -1,0 +1,12 @@
+    Este desafio destina-se a apresentar um breve resumo sobre os conhecimentos da ferramenta Copilot Studio, e como criar 
+    copilot utilizando modelos,criando copilot baseados em descrição com IA e  criando um em branco.
+    
+    
+    Na aula apresentado pelo professor Renato Romão, uma aula cheia de conhecimentos sobre o Copilot Studio, abordou a utilização e criação de 
+agentes utilizando modelos  para facilitar a criação de agentes nos nichos desejados, aprendi a criar os agentes conforme as instruções
+utilizando uma modelo de viagens inplementei algumas instruções passadas por ele e simplemente me surpreendi com o resultado , mesmo sendo algo simples
+agregou muitos conheciementos, pois até o momente não conhecia a ferramenta, e a quantidade de agentes que se consegue criar, na minha 
+empolgação criei um chatbot, com atendente que anota pedidos.
+    Sei que é apenas o começo mais estou mergulhando nos conhecimentos apresentado pelo professor e estou testando outras funcionalidades
+    da ferramenta.   
+
